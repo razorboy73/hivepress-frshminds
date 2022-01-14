@@ -2,10 +2,10 @@ This repo is for demonstration purposes only and is not connected to our staging
 
 The purpose of this repo is to aid you in estimating the code changes required by our spec document
 
-This repo also include the following plugins
+This repo also include the following plugins:
 
-Advanced Custom Fields 5.11.4 Customize WordPress with powerful, professional and intuitive fields.
-Classic Editor 1.6.2 Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen.
+-Advanced Custom Fields 5.11.4 Customize WordPress with powerful, professional and intuitive fields.
+-Classic Editor 1.6.2 Enables the WordPress classic editor and the old-style Edit Post screen with TinyMCE, Meta Boxes, etc. Supports the older plugins that extend this screen.
 Custom Post Type UI 1.10.1 Admin panel for creating custom post types and custom taxonomies in WordPress
 Easy Table of Contents 2.0.17 Adds a user friendly and fully automatic way to create and display a table of contents generated from the page content.
 HivePress Geolocation 1.2.7 Allow users to search listings by location.
