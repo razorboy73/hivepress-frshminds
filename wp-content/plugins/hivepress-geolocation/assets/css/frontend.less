@@ -1,0 +1,55 @@
+.hp {
+	/*--------------------------------------------------------------
+	Forms
+	--------------------------------------------------------------*/
+	&-field {
+		&--location {
+			display: flex;
+
+			input[type=text] {
+				flex: 1;
+				padding-right: 3rem;
+			}
+
+			a {
+				flex: 0 0 3rem;
+				margin-left: -3rem;
+				text-decoration: none;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				position: relative;
+				z-index: 1;
+			}
+		}
+	}
+	/*--------------------------------------------------------------
+	Listings
+	--------------------------------------------------------------*/
+	&-listing {
+		&__location {
+			display: flex;
+			align-items: center;
+
+			i {
+				margin-right: 0.5rem;
+			}
+
+			a {
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				text-decoration: none;
+				color: inherit;
+			}
+		}
+	}
+	/*--------------------------------------------------------------
+	Maps
+	--------------------------------------------------------------*/
+	&-map {
+		&:not(:last-child) {
+			margin-bottom: 2rem;
+		}
+	}
+}

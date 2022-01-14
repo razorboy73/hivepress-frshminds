@@ -1,0 +1,26 @@
+[
+    {
+        "name": "hivepress/hivetheme",
+        "version": "1.0.12",
+        "version_normalized": "1.0.12.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/hivepress/hivetheme.git",
+            "reference": "f59403a76f1e1e382d93e899e5a1f214d7bebf83"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/hivepress/hivetheme/zipball/f59403a76f1e1e382d93e899e5a1f214d7bebf83",
+            "reference": "f59403a76f1e1e382d93e899e5a1f214d7bebf83",
+            "shasum": ""
+        },
+        "time": "2021-12-04T18:21:41+00:00",
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-or-later"
+        ],
+        "description": "A framework for HivePress themes."
+    }
+]

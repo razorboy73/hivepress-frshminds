@@ -1,0 +1,14 @@
+.lws_woorewards_pool_cost{width:5em;}
+.lws-editlist-opt-badge .warning::before{
+	color: darkred;
+	font-weight: 800;
+	font-size: 1.2em;
+	margin-right: 3px;
+	position: relative;
+	bottom: -3px;
+}
+.editlist-content-grid.lws-achievement-main-settings{
+	width: 100%;
+	grid-template-columns: 1fr 3fr;
+}
+#lws-wr-achievements .lws-achievement-main-settings .fieldset-1{display:none !important;}

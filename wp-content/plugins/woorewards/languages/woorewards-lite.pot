@@ -1,0 +1,2299 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: MyRewards\n"
+"POT-Creation-Date: 2021-06-04 10:35+0200\n"
+"PO-Revision-Date: 2021-08-27 10:23+0200\n"
+"Last-Translator: LongWatchStudio <contact@longwatchstudio.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Geany / PoHelper 1.36\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woorewards.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: include/abstracts/event.php:72
+#, php-format
+msgctxt "cooldown period eg. \"3 Months\""
+msgid "%1$s %2$s"
+msgstr ""
+
+#: include/abstracts/event.php:74
+#, php-format
+msgctxt "cooldown display"
+msgid "Max. once every %1$s"
+msgstr ""
+
+#: include/abstracts/event.php:76
+#, php-format
+msgctxt "cooldown display"
+msgid "Max. %2$s times per %1$s"
+msgstr ""
+
+#: include/abstracts/event.php:232 include/ui/editlists/eventlist.php:16
+msgid "Action to perform"
+msgstr ""
+
+#: include/abstracts/event.php:234
+msgid "Action"
+msgstr ""
+
+#: include/abstracts/event.php:239
+msgctxt "Event title"
+msgid "Action title"
+msgstr ""
+
+#: include/abstracts/event.php:246
+msgid "Points settings"
+msgstr ""
+
+#: include/abstracts/event.php:249
+msgctxt "Event point multiplier"
+msgid "Earned points"
+msgstr ""
+
+#: include/abstracts/event.php:257
+msgctxt "Event cooldown"
+msgid "Cooldown"
+msgstr ""
+
+#: include/abstracts/event.php:258
+msgid ""
+"Allow this event to be counted no more than X times per time interval or let it empty "
+"for no limit."
+msgstr ""
+
+#: include/abstracts/event.php:260
+#, php-format
+msgctxt "cooldown edition"
+msgid "Max %1$s times / %2$s"
+msgstr ""
+
+#: include/abstracts/event.php:276
+msgctxt "Event points delay"
+msgid "Points delay"
+msgstr ""
+
+#: include/abstracts/event.php:277
+msgid "If set, points will only be given after the delay you set here"
+msgstr ""
+
+#: include/abstracts/event.php:288
+msgctxt "Event points occurences"
+msgid "Repeated points"
+msgstr ""
+
+#: include/abstracts/event.php:289
+msgid "Set how many times points will be given and at what periodicity"
+msgstr ""
+
+#: include/abstracts/event.php:291
+#, php-format
+msgctxt "occurences edition"
+msgid "%1$s occurence(s) | one every %2$s"
+msgstr ""
+
+#: include/abstracts/event.php:337 include/ui/editlists/eventlist.php:14
+msgid "Earned points"
+msgstr ""
+
+#: include/abstracts/event.php:338 include/abstracts/event.php:551
+#: include/abstracts/unlockable.php:172 include/abstracts/unlockable.php:332
+#: include/core/pool.php:655 include/ui/widgets/pointsdisplayer.php:95
+msgid "Title"
+msgstr ""
+
+#: include/abstracts/event.php:339
+msgid "Cooldown (action count)"
+msgstr ""
+
+#: include/abstracts/event.php:340
+msgid "Cooldown (period)"
+msgstr ""
+
+#: include/abstracts/event.php:341
+msgid "Delay"
+msgstr ""
+
+#: include/abstracts/event.php:342
+msgid "Occurences"
+msgstr ""
+
+#: include/abstracts/event.php:343
+msgid "Occurences (period)"
+msgstr ""
+
+#: include/abstracts/event.php:546
+msgid "Error occured during rewarding event saving."
+msgstr ""
+
+#: include/abstracts/event.php:783 include/abstracts/unlockable.php:773
+msgid "Standard"
+msgstr ""
+
+#: include/abstracts/event.php:784
+msgid "Leveling"
+msgstr ""
+
+#: include/abstracts/event.php:785
+msgid "Achievement"
+msgstr ""
+
+#: include/abstracts/event.php:786 include/abstracts/unlockable.php:775
+msgid "Events"
+msgstr ""
+
+#: include/abstracts/unlockable.php:84
+msgid "Reward Information"
+msgstr ""
+
+#: include/abstracts/unlockable.php:86
+msgid "Reward type"
+msgstr ""
+
+#: include/abstracts/unlockable.php:91
+msgctxt "Unlockable title"
+msgid "Title"
+msgstr ""
+
+#: include/abstracts/unlockable.php:98
+msgctxt "Unlockable title"
+msgid "Description"
+msgstr ""
+
+#: include/abstracts/unlockable.php:107
+msgctxt "Unlockable Thumbnail"
+msgid "Featured Image"
+msgstr ""
+
+#: include/abstracts/unlockable.php:120
+msgid "Reward Settings"
+msgstr ""
+
+#: include/abstracts/unlockable.php:123
+msgctxt "Unlockable cost"
+msgid "Points needed"
+msgstr ""
+
+#: include/abstracts/unlockable.php:129
+msgctxt "Unlockable cost"
+msgid "Send Reward email"
+msgstr ""
+
+#: include/abstracts/unlockable.php:171
+msgid "Cost"
+msgstr ""
+
+#: include/abstracts/unlockable.php:173 include/abstracts/unlockable.php:334
+#: include/ui/admin.php:103 include/ui/shortcodes/userhistory.php:109
+msgid "Description"
+msgstr ""
+
+#: include/abstracts/unlockable.php:174
+msgid "Validity Starting Date"
+msgstr ""
+
+#: include/abstracts/unlockable.php:175
+msgid "Validity Ending Date"
+msgstr ""
+
+#: include/abstracts/unlockable.php:176
+msgid "Featured Image"
+msgstr ""
+
+#: include/abstracts/unlockable.php:177
+msgid "Enable Reward email"
+msgstr ""
+
+#: include/abstracts/unlockable.php:178
+msgid "Level Title"
+msgstr ""
+
+#: include/abstracts/unlockable.php:327
+msgid "Error occured during unlockable reward saving."
+msgstr ""
+
+#: include/abstracts/unlockable.php:336
+msgid "Level"
+msgstr ""
+
+#: include/abstracts/unlockable.php:738
+msgctxt "Cannot be redeemed"
+msgid "Not redeemable"
+msgstr ""
+
+#: include/abstracts/unlockable.php:740
+#, php-format
+msgctxt "Out of valid date range"
+msgid "%d [Delayed]"
+msgstr ""
+
+#: include/abstracts/unlockable.php:774
+msgid "Levelling"
+msgstr ""
+
+#: include/core/ajax.php:45
+msgid "Loyalty system not found."
+msgstr ""
+
+#: include/core/ajax.php:56
+msgid "Point system or user not found."
+msgstr ""
+
+#: include/core/ajax.php:59
+msgid "You do not have permission to see other history."
+msgstr ""
+
+#: include/core/pointstack.php:597
+#, php-format
+msgid "Points merged from %s"
+msgstr ""
+
+#: include/core/pointstack.php:598
+msgid "Lost due to inactivity"
+msgstr ""
+
+#: include/core/pool.php:650
+msgid "Error occured during reward system saving."
+msgstr ""
+
+#: include/core/pool.php:708
+#, php-format
+msgid "Failed to delete the reward system <b>%s</b>/%s."
+msgstr ""
+
+#: include/core/pool.php:728
+#, php-format
+msgid "The reward system <b>%s</b>/%s successfully deleted."
+msgstr ""
+
+#: include/events/firstorder.php:14
+msgid "The customer will receive points when placing his first order."
+msgstr ""
+
+#: include/events/firstorder.php:15
+msgid "Triggered only for registered customers"
+msgstr ""
+
+#: include/events/firstorder.php:21
+msgctxt "getDisplayType"
+msgid "Place a first order"
+msgstr ""
+
+#: include/events/firstorder.php:37 include/events/orderamount.php:46
+#: include/events/ordercompleted.php:38
+msgid "Priority"
+msgstr ""
+
+#: include/events/firstorder.php:38 include/events/orderamount.php:47
+#: include/events/ordercompleted.php:39
+msgid "Customer orders will run by ascending priority value."
+msgstr ""
+
+#: include/events/firstorder.php:66 include/events/orderamount.php:93
+#: include/events/ordercompleted.php:67
+msgid "Event Priority"
+msgstr ""
+
+#: include/events/firstorder.php:150 include/events/orderamount.php:321
+#: include/events/ordercompleted.php:141 include/events/productreview.php:231
+#: include/ui/admin.php:403 include/unlockables/coupon.php:486
+msgid "WooCommerce"
+msgstr ""
+
+#: include/events/firstorder.php:151 include/events/orderamount.php:323
+#: include/events/ordercompleted.php:142
+msgid "Order"
+msgstr ""
+
+#: include/events/firstorder.php:158
+#, php-format
+msgid "First customer order #%s"
+msgstr ""
+
+#: include/events/orderamount.php:14
+msgid "The customer will receive points depending on the amount spent on the order"
+msgstr ""
+
+#: include/events/orderamount.php:15
+msgid "Most used method on MyRewards. Lots of options"
+msgstr ""
+
+#: include/events/orderamount.php:35
+msgctxt "Order Amount Event money diviser"
+msgid "Money spent"
+msgstr ""
+
+#: include/events/orderamount.php:59 include/events/productreview.php:45
+msgid "Options"
+msgstr ""
+
+#: include/events/orderamount.php:62
+msgctxt "Order Amount Event"
+msgid "Use amount after discount"
+msgstr ""
+
+#: include/events/orderamount.php:63
+msgid ""
+"Some options are not compatible with computing points after discount and will be "
+"disabled."
+msgstr ""
+
+#: include/events/orderamount.php:92
+msgid "After Discount"
+msgstr ""
+
+#: include/events/orderamount.php:168
+msgctxt "getDisplayType"
+msgid "Spend money"
+msgstr ""
+
+#: include/events/orderamount.php:251
+#, php-format
+msgid "Spent %1$s from order #%2$s"
+msgstr ""
+
+#: include/events/orderamount.php:307
+#, php-format
+msgctxt "Point per money spent"
+msgid "%1$s / %2$s"
+msgstr ""
+
+#: include/events/orderamount.php:322
+msgid "Money"
+msgstr ""
+
+#: include/events/ordercompleted.php:15
+msgid "The customer will receive points upon completing an order"
+msgstr ""
+
+#: include/events/ordercompleted.php:16
+msgid "This method can also be used to give extra points on a first order"
+msgstr ""
+
+#: include/events/ordercompleted.php:22
+msgctxt "getDisplayType"
+msgid "Place an order"
+msgstr ""
+
+#: include/events/ordercompleted.php:133
+#, php-format
+msgid "Order #%s completed"
+msgstr ""
+
+#: include/events/productreview.php:16
+msgid "The customer will earn points for writing a review on a product."
+msgstr ""
+
+#: include/events/productreview.php:17
+msgid "You can restrict this method to products already purchased by the customer"
+msgstr ""
+
+#: include/events/productreview.php:27
+msgid ""
+"Points are still given once per product. The cooldown simply limits the number of times "
+"a user can earn points for his reviews during a set period."
+msgstr ""
+
+#: include/events/productreview.php:48 include/events/productreview.php:71
+msgid "Purchase Required"
+msgstr ""
+
+#: include/events/productreview.php:49
+msgid ""
+"If checked, points are earned only if the customer already purchased the product and "
+"order status is 'Complete'."
+msgstr ""
+
+#: include/events/productreview.php:113
+msgctxt "getDisplayType"
+msgid "Product review"
+msgstr ""
+
+#: include/events/productreview.php:167
+#, php-format
+msgid "Review about a product (%s)"
+msgstr ""
+
+#: include/events/productreview.php:232
+msgid "Website"
+msgstr ""
+
+#: include/mails/newreward.php:32 include/mails/newreward.php:35
+msgid "New Reward"
+msgstr ""
+
+#: include/mails/newreward.php:33
+msgid "Sent to customers when they receive a new reward"
+msgstr ""
+
+#: include/mails/newreward.php:34
+msgid "You've received a new reward"
+msgstr ""
+
+#: include/mails/newreward.php:36
+msgid "You just got a new reward !"
+msgstr ""
+
+#: include/mails/newreward.php:37
+msgid "Powered by MyRewards"
+msgstr ""
+
+#: include/mails/newreward.php:51
+msgid "That feature requires WooCommerce."
+msgstr ""
+
+#: include/mails/newreward.php:67
+msgid "Expiration Date"
+msgstr ""
+
+#: include/mails/newreward.php:68
+msgid "Coupon Details"
+msgstr ""
+
+#: include/mails/newreward.php:69
+msgid "Coupon Code"
+msgstr ""
+
+#: include/mails/newreward.php:70
+msgid "Coupon Value"
+msgstr ""
+
+#: include/mails/newreward.php:74
+msgctxt "permanent coupon"
+msgid "(reusable)"
+msgstr ""
+
+#: include/options.php:71
+msgid "Requested loyalty system cannot be loaded or created."
+msgstr ""
+
+#: include/options.php:100
+msgid "Please, set a <b>Title</b> for this Points and Rewards System."
+msgstr ""
+
+#: include/options.php:104
+msgid "A Points and Rewards System without a <b>Title</b> cannot be turned <b>On</b>."
+msgstr ""
+
+#: include/pointdiscount.php:54
+#, php-format
+msgctxt "Reward label"
+msgid "Reward from %s"
+msgstr ""
+
+#: include/pointdiscount.php:230
+#, php-format
+msgid "%2$s Conflict. Reward from %1$s already uses the same points reserve."
+msgstr ""
+
+#: include/pointdiscount.php:268
+#, php-format
+msgid "The Reward \"%s\" is unknown."
+msgstr ""
+
+#: include/pointdiscount.php:271
+#, php-format
+msgid "The Reward \"%s\" in your cart is unknown."
+msgstr ""
+
+#: include/pointdiscount.php:276 include/pointdiscount.php:279
+#, php-format
+msgid "\"%s\" does not support this kind of reward anymore."
+msgstr ""
+
+#: include/pointdiscount.php:304
+#, php-format
+msgid "At least one coupon requires %s. Guest order is not supported."
+msgstr ""
+
+#: include/pointdiscount.php:310
+#, php-format
+msgid "At least one coupon requires %s. You must log in to continue."
+msgstr ""
+
+#: include/pointdiscount.php:355
+#, php-format
+msgid "You do not have enough %1$s to purchase the reward %2$s."
+msgstr ""
+
+#: include/pointdiscount.php:380
+#, php-format
+msgid "Customer does not have enough %1$s to purchase the reward %2$s."
+msgstr ""
+
+#: include/pointdiscount.php:414
+#, php-format
+msgctxt "order note"
+msgid "Use <i>%1$s</i> from <i>%2$s</i> to get a discount on this order"
+msgstr ""
+
+#: include/pointdiscount.php:497
+#, php-format
+msgid "Reward from %1$s on Order #%2$s"
+msgstr ""
+
+#: include/pointdiscount.php:514
+msgid "Action control failed. Try to refresh the page."
+msgstr ""
+
+#: include/pointdiscount.php:518
+msgid "A connected user is required."
+msgstr ""
+
+#: include/pointdiscount.php:521
+msgid "Missing destination or bad format."
+msgstr ""
+
+#: include/pointdiscount.php:524
+msgid "Cannot load the Cart. Operation aborted."
+msgstr ""
+
+#: include/pointdiscount.php:528
+msgid "Points and Rewards System missing or access not granted."
+msgstr ""
+
+#: include/pointdiscount.php:530
+msgid "Points and Rewards System does not accept this kind of reward."
+msgstr ""
+
+#: include/pointdiscount.php:559
+#, php-format
+msgid "Use %1$s from %2$s"
+msgstr ""
+
+#: include/ui/admin.php:58
+msgid ""
+"WooCommerce Coupons are disabled. Several MyRewards features will be broken without "
+"Coupons."
+msgstr ""
+
+#: include/ui/admin.php:59
+msgid ""
+"You can check your WooCommerce General Settings and look for : <b>Enable coupons</b>."
+msgstr ""
+
+#: include/ui/admin.php:61
+#, php-format
+msgid "%1$s or %2$s this warning at your own risks."
+msgstr ""
+
+#: include/ui/admin.php:65
+msgid "Click here to resolve the problem immediately"
+msgstr ""
+
+#: include/ui/admin.php:70
+msgid "ignore"
+msgstr ""
+
+#: include/ui/admin.php:102 include/ui/admin.php:891
+msgid "Points History"
+msgstr ""
+
+#: include/ui/admin.php:104 include/ui/shortcodes/userhistory.php:108
+msgid "Date"
+msgstr ""
+
+#: include/ui/admin.php:105 include/ui/admin.php:1028
+#: include/ui/shortcodes/userhistory.php:110 include/ui/widgets/pointsdisplayer.php:199
+#: woorewards.php:244
+msgid "Points"
+msgstr ""
+
+#: include/ui/admin.php:106
+msgid "Total"
+msgstr ""
+
+#: include/ui/admin.php:144
+msgid "Add fun and achievements for your customers with the <a>Pro Version</a>"
+msgstr ""
+
+#: include/ui/admin.php:145
+msgid "Try the <a>Pro Version</a> for free for 30 days"
+msgstr ""
+
+#: include/ui/admin.php:146
+msgid "The <a>Pro Version</a> adds Events and Levelling systems. Try <a>it</a>"
+msgstr ""
+
+#: include/ui/admin.php:149
+msgid "Your settings have been saved."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: include/ui/admin.php:187
+msgid "MyRewards"
+msgstr ""
+
+#: include/ui/admin.php:195 include/ui/admin.php:228 include/ui/admin.php:238
+msgid "Customers"
+msgstr ""
+
+#: include/ui/admin.php:213
+msgid "Search..."
+msgstr ""
+
+#: include/ui/admin.php:219
+msgid ""
+"The customers page lets you track your customers loyalty activity and perform some "
+"actions :"
+msgstr ""
+
+#: include/ui/admin.php:220
+msgid "See customers points and history"
+msgstr ""
+
+#: include/ui/admin.php:221
+msgid "See customers owned coupons"
+msgstr ""
+
+#: include/ui/admin.php:222
+msgid "Add/Subtract Points"
+msgstr ""
+
+#: include/ui/admin.php:223
+msgid "Add/Remove Rewards (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:224
+msgid "Add/Remove Badges (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:225
+msgid "Filter by points, activity or inactivity periods (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:243
+msgid "Points Management"
+msgstr ""
+
+#: include/ui/admin.php:246
+msgid "Here you can see and manage your customers reward points"
+msgstr ""
+
+#: include/ui/admin.php:247
+msgid "You can view the points <b>history</b> by clicking the points total in the table"
+msgstr ""
+
+#: include/ui/admin.php:261
+msgid "Setup how customers will earn points and what rewards they can get."
+msgstr ""
+
+#: include/ui/admin.php:262
+msgid "In MyRewards Lite, there's only 3 ways to earn points (20+ in MyRewards Pro) :"
+msgstr ""
+
+#: include/ui/admin.php:265
+msgid "Place an order :"
+msgstr ""
+
+#: include/ui/admin.php:266
+msgid "Earn points when placing an order, independently of the order's amount. "
+msgstr ""
+
+#: include/ui/admin.php:269
+msgid "Spend Money :"
+msgstr ""
+
+#: include/ui/admin.php:270
+msgid "Earn points when placing an order, depending on the order's amount."
+msgstr ""
+
+#: include/ui/admin.php:273
+msgid "Review a product :"
+msgstr ""
+
+#: include/ui/admin.php:274
+msgid "Earn points by reviewing a product on your website."
+msgstr ""
+
+#: include/ui/admin.php:277
+msgid "In MyRewards Lite, you can choose between 2 rewards (10+ in MyRewards Pro) :"
+msgstr ""
+
+#: include/ui/admin.php:280
+msgid "Coupon :"
+msgstr ""
+
+#: include/ui/admin.php:281
+msgid "Points are converted into WooCommerce coupons that customers can use on their cart."
+msgstr ""
+
+#: include/ui/admin.php:284
+msgid "Points on Cart :"
+msgstr ""
+
+#: include/ui/admin.php:285
+msgid ""
+"Set the value of a point and customers will use their points on the cart to get "
+"immediate discounts."
+msgstr ""
+
+#: include/ui/admin.php:291 include/ui/admin.php:306
+msgid "Points and Rewards"
+msgstr ""
+
+#: include/ui/admin.php:320
+msgid ""
+"Wizards are made to help you get started or create some specific loyalty systems more "
+"easily."
+msgstr ""
+
+#: include/ui/admin.php:321
+msgid ""
+"Select a wizard, follow the setup steps and everything will be generated automatically "
+"according to your preferences."
+msgstr ""
+
+#: include/ui/admin.php:322
+msgid "Here are the wizards available :"
+msgstr ""
+
+#: include/ui/admin.php:327
+msgid "Standard System :"
+msgstr ""
+
+#: include/ui/admin.php:328
+msgid "Set up a standard system to let customers win coupons"
+msgstr ""
+
+#: include/ui/admin.php:331
+msgid "Leveling System :"
+msgstr ""
+
+#: include/ui/admin.php:332
+msgid "This wizard will help you create a bronze/silver/gold system (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:335
+msgid "Special Events :"
+msgstr ""
+
+#: include/ui/admin.php:336
+msgid "Loyalty systems for special occasions like Christmas (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:339
+msgid "Double Points :"
+msgstr ""
+
+#: include/ui/admin.php:340
+msgid "Create an event where customers can earn twice the points (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:343
+msgid "Sponsorship :"
+msgstr ""
+
+#: include/ui/admin.php:344
+msgid "Sponsors and sponsored are rewarded in this loyalty system (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:347
+msgid "Birthday or Anniversary "
+msgstr ""
+
+#: include/ui/admin.php:348
+msgid ""
+"Send a special gift on customers birthday or registration anniversary (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:353 include/ui/admin.php:354
+msgid "Wizard"
+msgstr ""
+
+#: include/ui/admin.php:376
+msgid "Activate and set up different MyRewards features in this section : "
+msgstr ""
+
+#: include/ui/admin.php:377
+msgid "WooCommerce :"
+msgstr ""
+
+#: include/ui/admin.php:378
+msgid "WooCommerce related rules and additional loyalty information on woocommerce pages"
+msgstr ""
+
+#: include/ui/admin.php:379
+msgid "Sponsorship/Referral :"
+msgstr ""
+
+#: include/ui/admin.php:380
+msgid "Set up the sponsorship/referral options (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:381
+msgid "Badges and Achievements :"
+msgstr ""
+
+#: include/ui/admin.php:382
+msgid "Create and manage user badges, achievements and badges rarity (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:383
+msgid "API :"
+msgstr ""
+
+#: include/ui/admin.php:384
+msgid "Set up the API to connect MyRewards with a third party app (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:388 include/ui/admin.php:389
+msgid "Features"
+msgstr ""
+
+#: include/ui/admin.php:409
+msgid "General settings"
+msgstr ""
+
+#: include/ui/admin.php:410
+msgid ""
+"Check the options below according to your needs. If you want to exclude shipping fees "
+"from points calculation, it can be done inside your loyalty systems."
+msgstr ""
+
+#: include/ui/admin.php:415
+msgid "Includes taxes"
+msgstr ""
+
+#: include/ui/admin.php:419
+msgid "If checked, taxes will be included in the points earned when spending money"
+msgstr ""
+
+#: include/ui/admin.php:424
+msgid "Order statuses for points"
+msgstr ""
+
+#: include/ui/admin.php:428
+msgid ""
+"Default state to get points is the processing order status.<br/>If you want to use other "
+"statuses instead (recommanded), select them here"
+msgstr ""
+
+#: include/ui/admin.php:436
+msgid "Order statuses to consume used points"
+msgstr ""
+
+#: include/ui/admin.php:437
+msgid "Points used to get a discount are consumed when order status changes."
+msgstr ""
+
+#: include/ui/admin.php:441
+msgid "Order statuses to pay discount"
+msgstr ""
+
+#: include/ui/admin.php:450
+msgid "Order status on payment failure"
+msgstr ""
+
+#: include/ui/admin.php:455
+msgid "[do nothing]"
+msgstr ""
+
+#: include/ui/admin.php:458
+msgid "Change order status if points cannot be paid after all."
+msgstr ""
+
+#: include/ui/admin.php:473
+msgid ""
+"Set the appearance of everything your customers will see on your website regarding "
+"loyalty systems : "
+msgstr ""
+
+#: include/ui/admin.php:474
+msgid "Widgets :"
+msgstr ""
+
+#: include/ui/admin.php:475
+msgid "Setup the widgets/shortcodes options and appearance"
+msgstr ""
+
+#: include/ui/admin.php:476
+msgid "Emails :"
+msgstr ""
+
+#: include/ui/admin.php:477
+msgid "Customize emails sent to your customers"
+msgstr ""
+
+#: include/ui/admin.php:478
+msgid "Popup :"
+msgstr ""
+
+#: include/ui/admin.php:479
+msgid ""
+"Setup the popup that your customers see when they unlock a reward (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:482 include/ui/admin.php:483
+msgid "Appearance"
+msgstr ""
+
+#: include/ui/admin.php:499
+msgid "Emails"
+msgstr ""
+
+#: include/ui/admin.php:511
+msgid "Manage different system related options :"
+msgstr ""
+
+#: include/ui/admin.php:512
+msgid "Process past orders :"
+msgstr ""
+
+#: include/ui/admin.php:513
+msgid "Process existing orders to give points for orders placed before the loyalty program"
+msgstr ""
+
+#: include/ui/admin.php:514
+msgid "Database :"
+msgstr ""
+
+#: include/ui/admin.php:515
+msgid "Manage MyRewards data in the database"
+msgstr ""
+
+#: include/ui/admin.php:518 include/ui/admin.php:519
+msgid "System"
+msgstr ""
+
+#: include/ui/admin.php:533
+msgid "Data Management"
+msgstr ""
+
+#: include/ui/admin.php:539
+msgid "Give Points for Past orders"
+msgstr ""
+
+#: include/ui/admin.php:540
+msgid ""
+"If you want to give points for orders that pre-existed your loyalty system, you can do "
+"it here"
+msgstr ""
+
+#: include/ui/admin.php:541
+msgid ""
+"This operation can take several minutes. Depending on you server configuration and date "
+"range, you should run this operation several times on short dates ranges."
+msgstr ""
+
+#: include/ui/admin.php:545
+msgid "Start date"
+msgstr ""
+
+#: include/ui/admin.php:556
+msgid "End date"
+msgstr ""
+
+#: include/ui/admin.php:567
+msgid "Launch the procedure"
+msgstr ""
+
+#: include/ui/admin.php:577
+msgid "Delete all data"
+msgstr ""
+
+#: include/ui/admin.php:579
+msgid "Remove all loyalty systems, user points and all MyRewards related data."
+msgstr ""
+
+#: include/ui/admin.php:580
+msgid "Use this feature with care since this action is <b>irreversible</b>."
+msgstr ""
+
+#: include/ui/admin.php:584 include/ui/admin.php:1203
+msgid "Delete All Data"
+msgstr ""
+
+#: include/ui/admin.php:604
+#, php-format
+msgid "Next CRON action planned at %1$s (UTC%2$s)."
+msgstr ""
+
+#: include/ui/admin.php:606
+msgid "CRON action is not registered. To fix it, deactivate then re-activate this plugin."
+msgstr ""
+
+#: include/ui/admin.php:610
+#, php-format
+msgid "Last CRON action ran at %1$s (UTC%2$s)."
+msgstr ""
+
+#: include/ui/admin.php:619 include/ui/admin.php:620 include/ui/admin.php:621
+#: include/ui/admin.php:690
+msgid "Pro Version"
+msgstr ""
+
+#: include/ui/admin.php:629
+msgid "Discover all Pro Version features :"
+msgstr ""
+
+#: include/ui/admin.php:633
+msgid "Points and Rewards Systems :"
+msgstr ""
+
+#: include/ui/admin.php:634
+msgid "Create as many systems as you want, working together or separately"
+msgstr ""
+
+#: include/ui/admin.php:637
+msgid "20+ methods to earn points :"
+msgstr ""
+
+#: include/ui/admin.php:638
+msgid ""
+"Lots of possibilities for your customers to earn points, including social media and "
+"sponsorship"
+msgstr ""
+
+#: include/ui/admin.php:641
+msgid "Referrals/Sponsorship :"
+msgstr ""
+
+#: include/ui/admin.php:642
+msgid "Complete referral and sponsorship system to grow your customers base"
+msgstr ""
+
+#: include/ui/admin.php:645
+msgid "New Rewards :"
+msgstr ""
+
+#: include/ui/admin.php:646
+msgid "New types of rewards including free products, free shipping and custom rewards."
+msgstr ""
+
+#: include/ui/admin.php:695
+msgid "Pro Version - Test if for free for 1 month !"
+msgstr ""
+
+#: include/ui/admin.php:698
+msgid ""
+"Discover the features of the pro version and how it will help your online store grow."
+msgstr ""
+
+#: include/ui/admin.php:719
+msgid "Widgets"
+msgstr ""
+
+#: include/ui/admin.php:725
+msgid "Display Points Widget"
+msgstr ""
+
+#: include/ui/admin.php:727
+msgid "In this Widget, customers can see their Reward Points available."
+msgstr ""
+
+#: include/ui/admin.php:731
+msgid "Text displayed if user not connected"
+msgstr ""
+
+#: include/ui/admin.php:735 include/ui/widgets/pointsdisplayer.php:267
+msgid "Please log in if you want to see your loyalty points"
+msgstr ""
+
+#: include/ui/admin.php:746
+msgid "Here you can customize the look and displayed text of the shortcode/widget"
+msgstr ""
+
+#: include/ui/admin.php:758
+msgid "Points On Cart"
+msgstr ""
+
+#: include/ui/admin.php:759
+msgid "Select where the Points on Cart tool will be displayed and how it will look"
+msgstr ""
+
+#: include/ui/admin.php:763
+msgid "Cart Display"
+msgstr ""
+
+#: include/ui/admin.php:770 include/ui/admin.php:796
+msgid "Not displayed at all"
+msgstr ""
+
+#: include/ui/admin.php:771
+msgid "Between products and totals"
+msgstr ""
+
+#: include/ui/admin.php:772
+msgid "Aside from cart totals"
+msgstr ""
+
+#: include/ui/admin.php:775
+msgid ""
+"The following options are used to decide where and how the Points on Cart tool will be "
+"displayed in the cart page"
+msgstr ""
+
+#: include/ui/admin.php:780
+msgid "Reload cart page after amount modification"
+msgstr ""
+
+#: include/ui/admin.php:784 include/ui/admin.php:811
+msgid ""
+"By default, changing the amount will provoke a javascript (ajax) update. Check this box "
+"if the default behavior doesn't work."
+msgstr ""
+
+#: include/ui/admin.php:789
+msgid "Checkout Display"
+msgstr ""
+
+#: include/ui/admin.php:797
+msgid "Top of the page"
+msgstr ""
+
+#: include/ui/admin.php:798
+msgid "Before customer details"
+msgstr ""
+
+#: include/ui/admin.php:799
+msgid "Before order review"
+msgstr ""
+
+#: include/ui/admin.php:802
+msgid ""
+"The following options are used to decide where and how the Points on Cart tool will be "
+"displayed in the checkout page"
+msgstr ""
+
+#: include/ui/admin.php:807
+msgid "Reload checkout page after amount modification"
+msgstr ""
+
+#: include/ui/admin.php:816
+msgid "Tool Header"
+msgstr ""
+
+#: include/ui/admin.php:819 include/ui/woocommerce/pointsoncart.php:493
+msgid "Loyalty points discount"
+msgstr ""
+
+#: include/ui/admin.php:832
+msgid "Use the styling tool to change the tool's frontend appearance"
+msgstr ""
+
+#: include/ui/admin.php:851 include/ui/admin.php:856
+msgid "Shortcodes"
+msgstr ""
+
+#: include/ui/admin.php:858
+msgid "In this section, you will find various shortcodes you can use on your website."
+msgstr ""
+
+#: include/ui/admin.php:862
+msgid "Simple Points Display"
+msgstr ""
+
+#: include/ui/admin.php:866
+msgid "This simple shortcode is used to display the user's points with no decoration."
+msgstr ""
+
+#: include/ui/admin.php:867
+msgid "This is very convenient if you want to display points within a phrase for example."
+msgstr ""
+
+#: include/ui/admin.php:872
+msgid "Display Points"
+msgstr ""
+
+#: include/ui/admin.php:876
+msgid "This shortcode shows to customers the points they have on a loyalty system."
+msgstr ""
+
+#: include/ui/admin.php:880
+msgid "The text displayed before the points."
+msgstr ""
+
+#: include/ui/admin.php:884
+msgid "(Optional) If set, the number of points displayed will show the points currency."
+msgstr ""
+
+#: include/ui/admin.php:895
+msgid "This shortcode displays a user's points history."
+msgstr ""
+
+#: include/ui/admin.php:899
+msgid "(Optional) The number of rows displayed. Default is 15."
+msgstr ""
+
+#: include/ui/admin.php:906
+msgid "Points on Cart Tool"
+msgstr ""
+
+#: include/ui/admin.php:910
+msgid "This shortcode is used to display the Points on Cart tool."
+msgstr ""
+
+#: include/ui/admin.php:911
+msgid "You can customize its appearance in the Widgets Tab."
+msgstr ""
+
+#: include/ui/admin.php:916
+msgid "Maximum Point Amount on Cart"
+msgstr ""
+
+#: include/ui/admin.php:920
+msgid ""
+"This shortcode will show the maximum quantity of Point that could be used on this cart."
+msgstr ""
+
+#: include/ui/admin.php:924
+msgid ""
+"(Optional) If set, the amount will be a simple text. Otherwise, it will be presented "
+"inside a stylable element"
+msgstr ""
+
+#: include/ui/admin.php:945 include/ui/editlists/multiformlist.php:128
+msgid "Information"
+msgstr ""
+
+#: include/ui/admin.php:947
+msgid ""
+"MyRewards Standard uses WooCommerce <i>orders</i> and <i>coupons</i>.\n"
+"\t\t\t\t\t\t\t<br/>You should install <a href='https://wordpress.org/plugins/"
+"woocommerce/' target='_blank'>WooCommerce</a> to have them active.\n"
+"\t\t\t\t\t\t\t<br/>Or <a href='https://plugins.longwatchstudio.com/product/woorewards/' "
+"target='_blank'>upgrade <b>MyRewards</b> to the <b>Pro</b> version</a>\n"
+"\t\t\t\t\t\t\tand enjoy new ways to earn points (social media, sponsoring... with or "
+"without WooCommerce) and a lot of new reward types !"
+msgstr ""
+
+#: include/ui/admin.php:983
+msgid ""
+"You are now using the Free Version of WooRewards. However, we detect that you still have "
+"Premium Version settings that are not compatible with the Free Version."
+msgstr ""
+
+#: include/ui/admin.php:984
+msgid ""
+"If you buy a Premium Version License and activate it, it will restore all the Premium "
+"Version data (points and rewards systems, user points, settings)."
+msgstr ""
+
+#: include/ui/admin.php:985
+msgid "If you prefer to only use the free version, please follow the instructions below :"
+msgstr ""
+
+#: include/ui/admin.php:993
+#, php-format
+msgid ""
+"The WooRewards default points and rewards system does not exist. Please run the <a"
+"%s>wizard</a> tool to create one."
+msgstr ""
+
+#: include/ui/admin.php:1000
+msgid ""
+"The MyRewards default points and rewards system does not exist. Try to re-activate this "
+"plugin. If the problem persists, contact your administrator."
+msgstr ""
+
+#: include/ui/admin.php:1006
+msgid "Loading failure"
+msgstr ""
+
+#: include/ui/admin.php:1020
+msgid "General Settings"
+msgstr ""
+
+#: include/ui/admin.php:1022
+msgid ""
+"Before activating your loyalty program, make sure you've read the documentation. You "
+"will find links to the documentation on the top right of each group."
+msgstr ""
+
+#: include/ui/admin.php:1031
+msgid "Here you can manage how your customers earn loyalty points"
+msgstr ""
+
+#: include/ui/admin.php:1043 include/ui/editlists/userspoints.php:18 woorewards.php:358
+msgid "Rewards"
+msgstr ""
+
+#: include/ui/admin.php:1046
+msgid ""
+"Here you can manage the rewards for your customers. Rewards can either be automatically "
+"generated WooCommerce Coupons or points usable on cart for immediate discounts"
+msgstr ""
+
+#: include/ui/admin.php:1052
+msgid "Reward Type"
+msgstr ""
+
+#: include/ui/admin.php:1058
+msgid "WooCommerce Coupon"
+msgstr ""
+
+#: include/ui/admin.php:1059 include/wizards/standard.php:125
+#: include/wizards/standard.php:306
+msgid "Points on Cart"
+msgstr ""
+
+#: include/ui/admin.php:1068
+#, php-format
+msgid "Point Value in %s"
+msgstr ""
+
+#: include/ui/admin.php:1071
+msgid "Each point spent on the cart will decrease the order total of that value"
+msgstr ""
+
+#: include/ui/admin.php:1078 include/unlockables/coupon.php:487
+msgid "Coupon"
+msgstr ""
+
+#: include/ui/admin.php:1125
+msgctxt "pool enabled switch"
+msgid "Off"
+msgstr ""
+
+#: include/ui/admin.php:1126
+msgctxt "pool enabled switch"
+msgid "On"
+msgstr ""
+
+#: include/ui/admin.php:1134
+msgctxt "Pool title"
+msgid "Title"
+msgstr ""
+
+#: include/ui/admin.php:1148 include/ui/admin.php:1149
+msgid "Dates are required"
+msgstr ""
+
+#: include/ui/admin.php:1193
+#, php-format
+msgid "<b>%s</b> order(s) processed."
+msgstr ""
+
+#: include/ui/admin.php:1202
+#, php-format
+msgid ""
+"If you really want to reset all MyRewards data, check this box and click on <i>'%s'</i> "
+"again."
+msgstr ""
+
+#: include/ui/admin.php:1204
+msgid "This operation is irreversible!"
+msgstr ""
+
+#: include/ui/admin.php:1205
+msgid "Consider making a backup of your database before continue."
+msgstr ""
+
+#: include/ui/admin.php:1265
+msgid ""
+"You can now create new Points and Rewards System for your customers or uninstall "
+"MyRewards."
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:15 include/ui/editlists/unlockablelist.php:16
+msgid "Public title"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:51
+msgid "Action to perform to earn points"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:55
+msgid "Points value and options"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:83
+msgctxt "Option Group"
+msgid "Orders"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:83
+msgid "Earn points when placing an order"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:84
+msgctxt "Option Group"
+msgid "Website"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:84
+msgid "Earn points when performing actions on the website"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:85
+msgctxt "Option Group"
+msgid "Social Media"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:85
+msgid "Earn points for social media actions"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:86
+msgctxt "Option Group"
+msgid "Sponsorship/Referral"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:86
+msgid "Only sponsors/referrers will earn points with these"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:87 include/ui/editlists/unlockablelist.php:90
+msgctxt "Option Group"
+msgid "Miscellaneous"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:87
+msgid "Earn points for various reasons"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:88
+msgctxt "Option Group"
+msgid "WooVIP"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:88
+msgid "Earn points related to the WooVIP Plugin"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:89
+msgctxt "Option Group"
+msgid "MyVirtualWallet"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:89
+msgid "Earn points related to the MyVirtualWallet Plugin"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:106
+msgid "The selected Earning Points System cannot be found."
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:108
+msgid ""
+"Earning Points System Type cannot be changed. Delete this and create a new one instead."
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:114
+msgid "The selected Earning Points System type cannot be found."
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:137
+msgid "The selected Earning Point System cannot be found."
+msgstr ""
+
+#: include/ui/editlists/multiformlist.php:129
+msgid "Select an element below to see more information about it"
+msgstr ""
+
+#: include/ui/editlists/multiformlist.php:130
+msgid "You will have some extra information displayed if need be."
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:15
+msgid "Points cost"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:17
+msgid "Reward description"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:39
+msgid "Select the Reward"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:43
+msgid "Setup the Reward"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:86
+msgctxt "Option  Group"
+msgid "Coupons"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:86
+msgid "Rewards that will generate WooCommerce Coupons"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:87
+msgctxt "Option Group"
+msgid "User's status"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:87
+msgid "Rewards that will change the user's status"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:88
+msgctxt "Option  Group"
+msgid "MyVirtualWallet"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:88
+msgid "Wallet Credit rewards"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:89
+msgctxt "Option  Group"
+msgid "WooVIP"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:89
+msgid "Memberships rewards"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:90
+msgid "Other types of rewards"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:122 include/ui/editlists/unlockablelist.php:158
+msgid "The selected reward cannot be found."
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:124
+msgid "The reward type cannot be changed. Delete this and create a new one instead."
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:130
+msgid "The selected reward type cannot be found."
+msgstr ""
+
+#: include/ui/editlists/userspoints.php:16
+msgid "Users"
+msgstr ""
+
+#: include/ui/editlists/userspoints.php:147
+msgid "Default"
+msgstr ""
+
+#: include/ui/editlists/userspointsbulkaction.php:14
+msgid ""
+"Enter '=42' to set a total of 42 points to selected users instead of adding it to "
+"current amounts."
+msgstr ""
+
+#: include/ui/editlists/userspointsbulkaction.php:15
+msgid "Add/Subtract points"
+msgstr ""
+
+#: include/ui/editlists/userspointsbulkaction.php:54
+msgid "Cannot load default loyalty system."
+msgstr ""
+
+#: include/ui/editlists/userspointsbulkaction.php:60
+msgid "Commercial operation"
+msgstr ""
+
+#: include/ui/editlists/userspointsbulkaction.php:71
+msgid "Points added to user."
+msgid_plural "Points added to users."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/ui/editlists/userspointsbulkaction.php:73
+msgid "A reward was generated."
+msgid_plural "Few rewards generated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/ui/shortcodes/userhistory.php:107 include/wizards/standard.php:254
+#: woorewards.php:345
+msgid "Loyalty System"
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:44
+msgid "MyRewards Points Displayer"
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:46
+msgid "Let your customers see their points."
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:98 include/ui/widgets/pointsdisplayer.php:168
+msgctxt "frontend"
+msgid "Current Points"
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:104
+msgid "Header"
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:120
+msgid "Select a Loyalty System"
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:129
+msgid "Force display for all users"
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:137
+msgid "A <i>More details</i> page URL"
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:146
+msgid "Display the Points currency"
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:244
+msgid "More Details"
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:222
+msgid "The Points on Cart widget has been placed aside the Cart."
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:234
+msgid "Demo. System"
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:459
+#, php-format
+msgid "Your %s :"
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:460
+msgctxt "Part of Points to use as reward"
+msgid "Used Amount :"
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:461
+msgid "Apply"
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:462
+msgid "Use Max Amount"
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:500
+#, php-format
+msgid "Every %s you use is worth %s"
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:511
+#, php-format
+msgid "You can use a maximum of %1$s %2$s on a single cart."
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:506
+#, php-format
+msgid "You can only use your %s to reduce the cart total by %s%%"
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:513
+#, php-format
+msgid "You can only use your %s to reduce the cart total to %s"
+msgstr ""
+
+#: include/ui/woocommerce/pointsoncart.php:520
+#, php-format
+msgid "The cart subtotal needs to be over %s if you want to use %s"
+msgstr ""
+
+#: include/unlockables/coupon.php:15
+msgid ""
+"The customer will receive a WooCommerce Coupon, either for a fix discount or a "
+"percentage one."
+msgstr ""
+
+#: include/unlockables/coupon.php:16
+msgid "The generated coupon can be used like any other WooCommerce coupon."
+msgstr ""
+
+#: include/unlockables/coupon.php:36
+msgctxt "Coupon Unlockable"
+msgid "Discount type"
+msgstr ""
+
+#: include/unlockables/coupon.php:40
+msgid "Fixed cart discount"
+msgstr ""
+
+#: include/unlockables/coupon.php:40
+msgid "Percentage discount"
+msgstr ""
+
+#: include/unlockables/coupon.php:49
+msgctxt "Coupon Unlockable"
+msgid "Coupon amount"
+msgstr ""
+
+#: include/unlockables/coupon.php:56
+msgctxt "Coupon Unlockable"
+msgid "Validity period"
+msgstr ""
+
+#: include/unlockables/coupon.php:85
+msgid "Validity period"
+msgstr ""
+
+#: include/unlockables/coupon.php:86
+msgid "Coupon amount"
+msgstr ""
+
+#: include/unlockables/coupon.php:87
+msgid "Discount in percent or fixed price"
+msgstr ""
+
+#: include/unlockables/coupon.php:157
+msgctxt "getDisplayType"
+msgid "Fixed/Percentage discount"
+msgstr ""
+
+#: include/unlockables/coupon.php:183
+#, php-format
+msgid "%s discount on an order"
+msgstr ""
+
+#: include/unlockables/coupon.php:193
+#, php-format
+msgid "valid up to %s"
+msgstr ""
+
+#: include/unlockables/coupon.php:200
+#, php-format
+msgid "valid for %1$d %2$s"
+msgstr ""
+
+#: include/unlockables/coupon.php:230
+msgid " (excl. tax)"
+msgstr ""
+
+#: include/unlockables/coupon.php:234
+msgid " (incl. tax)"
+msgstr ""
+
+#: include/unlockables/coupon.php:259
+msgctxt "Cannot be bought cause no discount"
+msgid "No discount"
+msgstr ""
+
+#: include/unlockables/coupon.php:284
+msgid "TESTCODE"
+msgstr ""
+
+#: include/unlockables/coupon.php:303
+#, php-format
+msgid "Coupon code : %s"
+msgstr ""
+
+#: include/unlockables/coupon.php:428
+msgid "Customer Email"
+msgstr ""
+
+#: include/unlockables/coupon.php:463
+msgid "No coupon"
+msgstr ""
+
+#: include/unlockables/coupon.php:473
+msgid "See coupons"
+msgstr ""
+
+#: include/unlockables/coupon.php:488
+msgctxt "unlockable category"
+msgid "Sponsored"
+msgstr ""
+
+#: include/updater.php:329 include/wizard.php:136 include/wizards/standard.php:27
+#: include/wizards/standard.php:56 include/wizards/standard.php:255
+#: include/wizards/standard.php:368
+msgid "Standard System"
+msgstr ""
+
+#: include/updater.php:387
+msgid ""
+"Your settings have been migrated during MyRewards update.\n"
+"We tried our best to conserve the same behavior as before but we advise you to check "
+"them anyway."
+msgstr ""
+
+#: include/wizard.php:25
+msgid "Loyalty System Setup"
+msgstr ""
+
+#: include/wizard.php:89
+msgid "Choose a Wizard"
+msgstr ""
+
+#: include/wizard.php:93
+msgid "Settings…"
+msgstr ""
+
+#: include/wizard.php:137
+msgid ""
+"The standard system is the most common loyalty system available. Users earn points by "
+"performing various actions. When they have enough points, they can unlock rewards such "
+"as discount coupons."
+msgstr ""
+
+#: include/wizard.php:146
+msgid "Leveling System"
+msgstr ""
+
+#: include/wizard.php:147
+msgid ""
+"Leveling systems works differently than standard systems. Users earn points by "
+"performing various actions. But they don't spend their points. Instead, they reach "
+"different levels and unlock all rewards set at a level when they have enough points."
+msgstr ""
+
+#: include/wizard.php:157
+msgid "Special Events"
+msgstr ""
+
+#: include/wizard.php:158
+msgid ""
+"Use the special events wizard to create temporary loyalty programs for various "
+"occasions. This wizard proposes scenarios for the following events :"
+msgstr ""
+
+#: include/wizard.php:160
+msgid "Black Friday"
+msgstr ""
+
+#: include/wizard.php:161
+msgid "Christmas"
+msgstr ""
+
+#: include/wizard.php:162
+msgid "Easter"
+msgstr ""
+
+#: include/wizard.php:172
+msgid "Double Points"
+msgstr ""
+
+#: include/wizard.php:173
+msgid ""
+"Create a special event and allow customers to earn twice the points for a limited period "
+"of time. You can also choose to allow users with a special role to earn twice the "
+"points. Or both."
+msgstr ""
+
+#: include/wizard.php:183
+msgid "Sponsorship"
+msgstr ""
+
+#: include/wizard.php:184
+msgid ""
+"Add a loyalty system that rewards customers for sponsoring new people on your website. "
+"Sponsored also receive a reward to encourage them to subscribe and buy on your website."
+msgstr ""
+
+#: include/wizard.php:194
+msgid "Customer Birthday or Registration Anniversary"
+msgstr ""
+
+#: include/wizard.php:195
+msgid ""
+"Celebrate your customers birthday or registration anniversary by sending them a discount "
+"coupon on that occasion. Really easy to set up and very appreciated by customers."
+msgstr ""
+
+#: include/wizards/standard.php:29 include/wizards/standard.php:262
+msgid "Methods to earn points"
+msgstr ""
+
+#: include/wizards/standard.php:31 include/wizards/standard.php:290 woorewards.php:359
+msgid "Reward"
+msgstr ""
+
+#: include/wizards/standard.php:33
+msgid "Summary"
+msgstr ""
+
+#: include/wizards/standard.php:45
+msgid ""
+"Welcome to this Wizard. This tool will help you configure your first loyalty system in "
+"less than 5 minutes."
+msgstr ""
+
+#: include/wizards/standard.php:46
+msgid "This wizard is limited for MyRewards Standard."
+msgstr ""
+
+#: include/wizards/standard.php:47
+msgid ""
+"If you want to have access to all methods and rewards, please consider trying MyRewards "
+"Pro."
+msgstr ""
+
+#: include/wizards/standard.php:53
+msgid "Loyalty system name"
+msgstr ""
+
+#: include/wizards/standard.php:57
+msgid "Name your loyalty system. If you leave it empty, it will be named automatically"
+msgstr ""
+
+#: include/wizards/standard.php:67
+msgid "Your customers will earn points every time they perform the actions defined here."
+msgstr ""
+
+#: include/wizards/standard.php:68
+msgid ""
+"Set points for all the methods you want and ignore the ones you don't want. You can "
+"change all these settings later."
+msgstr ""
+
+#: include/wizards/standard.php:69
+msgid "Some categories are not accessible in the free version of MyRewards."
+msgstr ""
+
+#: include/wizards/standard.php:75
+#, php-format
+msgid "Points for each %s spent"
+msgstr ""
+
+#: include/wizards/standard.php:79 include/wizards/standard.php:88
+#: include/wizards/standard.php:97 include/wizards/standard.php:105
+msgid "Number | Empty to ignore"
+msgstr ""
+
+#: include/wizards/standard.php:84
+msgid "Points on order placed"
+msgstr ""
+
+#: include/wizards/standard.php:93
+msgid "Extra points on first order"
+msgstr ""
+
+#: include/wizards/standard.php:102
+msgid "Points on product review"
+msgstr ""
+
+#: include/wizards/standard.php:115
+msgid ""
+"Select the reward for your customers. The rewards types are limited in the standard "
+"version. You can change these settings later."
+msgstr ""
+
+#: include/wizards/standard.php:121
+msgid "Select a reward"
+msgstr ""
+
+#: include/wizards/standard.php:126
+#, php-format
+msgctxt "Coupon Unlockable"
+msgid "Coupon (%s)"
+msgstr ""
+
+#: include/wizards/standard.php:127 include/wizards/standard.php:183
+msgid "Discount (%)"
+msgstr ""
+
+#: include/wizards/standard.php:128
+msgid "Free Product"
+msgstr ""
+
+#: include/wizards/standard.php:129
+msgid "Free Shipping"
+msgstr ""
+
+#: include/wizards/standard.php:130
+msgid "Variable Discount"
+msgstr ""
+
+#: include/wizards/standard.php:131
+msgid "Badge"
+msgstr ""
+
+#: include/wizards/standard.php:132
+msgid "User Role"
+msgstr ""
+
+#: include/wizards/standard.php:133
+msgid "VIP Membership"
+msgstr ""
+
+#: include/wizards/standard.php:145
+#, php-format
+msgctxt "Points on Cart Reward"
+msgid "Point value in %s"
+msgstr ""
+
+#: include/wizards/standard.php:149
+msgid ""
+"Set the monetary value of a point. Each point used on a cart will discount the total by "
+"that value."
+msgstr ""
+
+#: include/wizards/standard.php:159
+msgid "Points Needed"
+msgstr ""
+
+#: include/wizards/standard.php:169
+#, php-format
+msgctxt "Coupon Unlockable"
+msgid "Coupon Amount (%s)"
+msgstr ""
+
+#: include/wizards/standard.php:173
+msgid ""
+"Every time customers have enough points, those points will be used to generate a coupon "
+"of that amount."
+msgstr ""
+
+#: include/wizards/standard.php:187
+msgid ""
+"Every time customers have enough points, those points will be used to generate a "
+"discount coupon with that percentage."
+msgstr ""
+
+#: include/wizards/standard.php:197
+msgid ""
+"You're almost done. Check your settings below and submit if you're satisfied with the "
+"settings."
+msgstr ""
+
+#: include/wizards/standard.php:203
+msgid "Settings Summary"
+msgstr ""
+
+#: include/wizards/standard.php:207 include/wizards/standard.php:220
+msgid ""
+"Do you want to start your loyalty system at the end of this wizard ? If you select No, "
+"you'll have to start it manually later."
+msgstr ""
+
+#: include/wizards/standard.php:212
+msgid "Start the program ?"
+msgstr ""
+
+#: include/wizards/standard.php:216
+msgid "Yes"
+msgstr ""
+
+#: include/wizards/standard.php:217
+msgid "No"
+msgstr ""
+
+#: include/wizards/standard.php:256
+msgid "Loyalty System Name"
+msgstr ""
+
+#: include/wizards/standard.php:265
+#, php-format
+msgid " %s points earned for each %s spent"
+msgstr ""
+
+#: include/wizards/standard.php:266
+msgid "Spend Money"
+msgstr ""
+
+#: include/wizards/standard.php:271
+#, php-format
+msgid " %s points for each placed order"
+msgstr ""
+
+#: include/wizards/standard.php:272
+msgid "Place an order"
+msgstr ""
+
+#: include/wizards/standard.php:277
+#, php-format
+msgid " %s extra points for the first order"
+msgstr ""
+
+#: include/wizards/standard.php:278
+msgid "Place a first order"
+msgstr ""
+
+#: include/wizards/standard.php:283
+#, php-format
+msgid " %s points for a product review"
+msgstr ""
+
+#: include/wizards/standard.php:284
+msgid "Product Review"
+msgstr ""
+
+#: include/wizards/standard.php:293
+#, php-format
+msgid " %s percent discount for %s points"
+msgstr ""
+
+#: include/wizards/standard.php:294
+msgid "Percentage Discount"
+msgstr ""
+
+#: include/wizards/standard.php:299
+#, php-format
+msgid " %s%s discount for %s points"
+msgstr ""
+
+#: include/wizards/standard.php:300
+msgid "Fixed Discount"
+msgstr ""
+
+#: include/wizards/standard.php:305
+#, php-format
+msgid " %s%s discount for each point"
+msgstr ""
+
+#: include/wizards/standard.php:320
+#, php-format
+msgid "Points for each %s spent expects numeric value greater than zero or leave blank."
+msgstr ""
+
+#: include/wizards/standard.php:323
+msgid "Points on order placed expects numeric value greater than zero or leave blank."
+msgstr ""
+
+#: include/wizards/standard.php:326
+msgid "Extra points on first order expects numeric value greater than zero or leave blank."
+msgstr ""
+
+#: include/wizards/standard.php:328
+msgid "Points for product review expects numeric value greater than zero or leave blank."
+msgstr ""
+
+#: include/wizards/standard.php:336
+msgid "Points Needed expects numeric value greater than zero."
+msgstr ""
+
+#: include/wizards/standard.php:341
+msgid "Please, set a reward percentage greater than 0% up to 100%."
+msgstr ""
+
+#: include/wizards/standard.php:346
+msgid "Please, set a positive reward amount."
+msgstr ""
+
+#: include/wizards/standard.php:351
+msgid "Please, set a positive point value."
+msgstr ""
+
+#: include/wizards/standard.php:354
+msgid "Please, select a reward type."
+msgstr ""
+
+#: woorewards.php:141
+msgid "Settings"
+msgstr ""
+
+#: woorewards.php:144
+msgid "Help"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#: woorewards.php:152
+msgid "https://plugins.longwatchstudio.com/product/woorewards/"
+msgstr ""
+
+#: woorewards.php:162
+msgid "https://plugins.longwatchstudio.com/docs/woorewards-4/"
+msgstr ""
+
+#: woorewards.php:244
+msgid "Point"
+msgstr ""
+
+#: woorewards.php:278
+msgid "MyRewards Thumbnail"
+msgstr ""
+
+#: woorewards.php:279
+msgid "MyRewards Thumbnail Small"
+msgstr ""
+
+#: woorewards.php:344
+msgid "Loyalty Systems"
+msgstr ""
+
+#: woorewards.php:351
+msgid "Earning Points Methods"
+msgstr ""
+
+#: woorewards.php:352
+msgid "Earning Points Method"
+msgstr ""
+
+#: woorewards.php:391
+msgid ""
+"We detect a MyRewards licence downgrade: Click here to restore missing configuration."
+msgstr ""
+
+#: woorewards.php:392
+msgid "Restore"
+msgstr ""
+
+#: woorewards.php:474
+msgid "Your MyRewards Premium trial period is about to expire"
+msgstr ""
+
+#: woorewards.php:475 woorewards.php:494
+#, php-format
+msgid "Thank you for trying MyRewards Premium. The trial period will end on <b>%s</b>"
+msgstr ""
+
+#: woorewards.php:476
+#, php-format
+msgid "If you want to keep using all Pro Features, please purchase a %s License"
+msgstr ""
+
+#: woorewards.php:477 woorewards.php:495
+msgid "Premium Version features include :"
+msgstr ""
+
+#: woorewards.php:478 woorewards.php:496
+msgid "Referrals and Sponsorship"
+msgstr ""
+
+#: woorewards.php:479 woorewards.php:497
+msgid "Free products rewards"
+msgstr ""
+
+#: woorewards.php:480 woorewards.php:498
+msgid "WooCommerce integration tools"
+msgstr ""
+
+#: woorewards.php:481 woorewards.php:499
+msgid "Multiple points and rewards systems"
+msgstr ""
+
+#: woorewards.php:482 woorewards.php:500
+msgid "Lots of widgets and shortcodes"
+msgstr ""
+
+#: woorewards.php:483 woorewards.php:501
+msgid "And a lot more ..."
+msgstr ""
+
+#: woorewards.php:485
+msgid ""
+"Purchase WooRewads Premium today to keep the most powerful and customizable loyalty "
+"program"
+msgstr ""
+
+#: woorewards.php:493
+msgid "Welcome to your MyRewards Premium trial"
+msgstr ""
+
+#: woorewards.php:503
+msgid ""
+"Try all these premium features and create the perfect loyalty program for your website"
+msgstr ""
+
+#: woorewards.php:504
+msgid "At the end of your trial, consider purchasing a MyRewards License"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Improve your customers experience with Rewards, Levels and Achievements. Use it with "
+"WooCommerce to set up a loyalty program."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Long Watch Studio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://longwatchstudio.com"
+msgstr ""
