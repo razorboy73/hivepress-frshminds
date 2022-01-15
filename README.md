@@ -26,23 +26,23 @@ This repo also include the following plugins:
 
 - One Click Demo Import 3.0.2 Import your content, widgets and theme settings with one click. Theme authors! Enable simple demo import for your theme demo data.
 
-  - Redirection 5.1.3 Manage all your 301 redirects and monitor 404 errors
+- Redirection 5.1.3 Manage all your 301 redirects and monitor 404 errors
 
-  - Simple Local Avatars 2.2.0 Adds an avatar upload field to user profiles. Generates requested sizes on demand, just like Gravatar! Simple and lightweight.
+- Simple Local Avatars 2.2.0 Adds an avatar upload field to user profiles. Generates requested sizes on demand, just like Gravatar! Simple and lightweight.
 
-  - WooCommerce Payments 3.5.0 Accept payments via credit card. Manage transactions within WordPress.
+- WooCommerce Payments 3.5.0 Accept payments via credit card. Manage transactions within WordPress.
 
-  - WooCommerce Shipping & Tax 1.25.20 Hosted services for WooCommerce: automated tax calculation, shipping label printing, and smoother payment setup.
+- WooCommerce Shipping & Tax 1.25.20 Hosted services for WooCommerce: automated tax calculation, shipping label printing, and smoother payment setup.
 
-  - WooCommerce 6.1.0 An eCommerce toolkit that helps you sell anything. Beautifully.
+- WooCommerce 6.1.0 An eCommerce toolkit that helps you sell anything. Beautifully.
 
-  - MyRewards 4.6.3 Improve your customers experience with Rewards, Levels and Achievements. Use it with WooCommerce to set up a loyalty program.
+- MyRewards 4.6.3 Improve your customers experience with Rewards, Levels and Achievements. Use it with WooCommerce to set up a loyalty program.
 
-  - Yoast SEO 17.9 The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.
+- Yoast SEO 17.9 The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.
 
-  - WP All Import Pro 4.7.1 The most powerful solution for importing XML and CSV files to WordPress. Import to Posts, Pages, and Custom Post Types. Support for imports that run on a schedule, ability to update existing imports, and much more.
+- WP All Import Pro 4.7.1 The most powerful solution for importing XML and CSV files to WordPress. Import to Posts, Pages, and Custom Post Types. Support for imports that run on a schedule, ability to update existing imports, and much more.
 
-  - WP All Import - WooCommerce Add-On Pro 3.2.8 Import to WooCommerce. Adds a section to WP All Import that looks just like WooCommerce. Requires WP All Import.
+- WP All Import - WooCommerce Add-On Pro 3.2.8 Import to WooCommerce. Adds a section to WP All Import that looks just like WooCommerce. Requires WP All Import.
 
 #########
 
@@ -50,17 +50,27 @@ Notes
 
 There are certain plugins that are active on our staging site, but not in this repo due to licencing issues. These include:
 
-Bot Protection
-Breeze
-Custom Post Type UI Extended - only have one licence
-Google Listing and Ads
-Import and export users and customers
-Jetpack
-MailPoet 3 (New)
-WooRewards - only have one licence so we are using the free MyRewards plugin
-SearchWP
-SearchWP Woocommerce Integration
-String Locator
+- Bot Protection
+
+- Breeze
+
+- Custom Post Type UI Extended - only have one licence
+
+- Google Listing and Ads
+
+- Import and export users and customers
+
+- Jetpack
+
+- MailPoet 3 (New)
+
+- WooRewards - only have one licence so we are using the free MyRewards plugin
+
+- SearchWP
+
+- SearchWP Woocommerce Integration
+
+- String Locator
 
 Important Note
 Hivepress Geolocation requires configuration via google to work. This is functional on the staging site
